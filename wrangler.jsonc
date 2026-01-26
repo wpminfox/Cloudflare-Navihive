@@ -17,14 +17,14 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-local",
-            "database_id": "43ff28e1-42d6-4e53-9657-0702ae1353b6"
+            "database_name": "wpnavigation-db",
+            "database_id": "05adb91e-76fb-41c5-a7ed-5f07998eafc5"
         }
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "linuxdo",
-        "AUTH_PASSWORD": "linuxdo",
-        "AUTH_SECRET": "linuxdo"
+        "AUTH_USERNAME": "minfox",
+        "AUTH_PASSWORD": "wp6928441",
+        "AUTH_SECRET": "wp"
     }
 }
